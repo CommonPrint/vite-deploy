@@ -1,6 +1,6 @@
 import { defineConfig } from "vite"
 
 export default defineConfig({
-    base: "/vite-deploy/",
+    base: "/vite-deploy",
     envPrefix: 'ENV',
 })
